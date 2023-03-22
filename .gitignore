@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+TP2/C_implementation/.idea
+TP2/C_implementation/cmake-build-debug
