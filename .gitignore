@@ -132,5 +132,5 @@ TP2/C_implementation/.idea
 TP2/C_implementation/cmake-build-debug
 ./*/.idea/
 ./*/cmake-build-debug/
-./TP3/cmake-build-debug/
+TP3/PSO_C++/cmake-build-debug/*
 TP3/results/*
